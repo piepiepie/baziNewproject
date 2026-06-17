@@ -1,0 +1,1 @@
+{"version":3,"file":"calculate.d.ts","sourceRoot":"","sources":["../../../src/domains/taiyi/calculate.ts"],"names":[],"mappings":"AAKA,OAAO,KAAK,EAGV,UAAU,EAIV,WAAW,EAEZ,MAAM,YAAY,CAAC;AAEpB,YAAY,EACV,cAAc,EACd,oBAAoB,EACpB,sBAAsB,EACtB,UAAU,EACV,qBAAqB,EACrB,qBAAqB,EACrB,SAAS,EACT,WAAW,EACX,iBAAiB,GAClB,MAAM,YAAY,CAAC;AAoMpB,wBAAgB,cAAc,CAAC,KAAK,EAAE,UAAU,GAAG,WAAW,CAmD7D"}

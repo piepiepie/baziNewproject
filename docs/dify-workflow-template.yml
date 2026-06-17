@@ -1,0 +1,57 @@
+# Dify 工作流 YAML 导入文件
+# 使用方式：在 Dify 后台 → 导入 DSL
+
+app:
+  name: "参天大师"
+  mode: "advanced-chat"
+  description: "综合八字命理、事业策略、报告生成和追问建议的 AI 智能体"
+
+# 输入变量（来自 Node.js 后端）
+inputs:
+  - name: profile_name
+    type: string
+    description: 用户昵称
+  - name: profile_gender
+    type: string
+  - name: profile_birthplace
+    type: string
+  - name: profile_birth
+    type: string
+  - name: profile_fortune
+    type: string
+    description: 当前大运
+  - name: pillar_year
+    type: string
+  - name: pillar_month
+    type: string
+  - name: pillar_day
+    type: string
+  - name: pillar_hour
+    type: string
+  - name: tengod_year
+    type: string
+  - name: tengod_month
+    type: string
+  - name: tengod_day
+    type: string
+  - name: tengod_hour
+    type: string
+  - name: focus
+    type: string
+    description: 用户关注点
+  - name: active_skills
+    type: string
+    description: 当前激活的 Skill 名称
+  - name: profile_json
+    type: string
+    description: 完整档案 JSON
+  - name: conversation_summary
+    type: string
+    description: 对话历史摘要
+
+# 模型配置
+model_config:
+  provider: deepseek
+  model: deepseek-chat
+  temperature: 0.7
+  max_tokens: 2048

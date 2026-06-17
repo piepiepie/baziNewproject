@@ -1,0 +1,1 @@
+{"version":3,"file":"text.d.ts","sourceRoot":"","sources":["../../../src/domains/liuyao/text.ts"],"names":[],"mappings":"AAeA,OAAO,KAAK,EACV,YAAY,EACb,MAAM,YAAY,CAAC;AAUpB,wBAAgB,yBAAyB,CAAC,MAAM,EAAE,YAAY,GAAG,MAAM,CA2KtE;AA0DD,wBAAgB,gBAAgB,CAC9B,MAAM,EAAE,YAAY,EACpB,OAAO,CAAC,EAAE;IAAE,WAAW,CAAC,EAAE,SAAS,GAAG,MAAM,GAAG,MAAM,CAAC;CAAE,GACvD,MAAM,CAgHR"}

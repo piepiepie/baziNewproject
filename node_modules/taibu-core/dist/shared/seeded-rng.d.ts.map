@@ -1,0 +1,1 @@
+{"version":3,"file":"seeded-rng.d.ts","sourceRoot":"","sources":["../../src/shared/seeded-rng.ts"],"names":[],"mappings":"AAUA,wBAAgB,eAAe,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM,MAAM,CAU1D;AAMD,wBAAgB,WAAW,CACzB,SAAS,EAAE,MAAM,GAAG,SAAS,EAC7B,QAAQ,EAAE,MAAM,EAChB,KAAK,CAAC,EAAE,MAAM,GACb,MAAM,CAMR"}

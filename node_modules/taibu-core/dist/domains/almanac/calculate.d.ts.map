@@ -1,0 +1,1 @@
+{"version":3,"file":"calculate.d.ts","sourceRoot":"","sources":["../../../src/domains/almanac/calculate.ts"],"names":[],"mappings":"AAAA;;GAEG;AAGH,OAAO,KAAK,EAAE,YAAY,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAI9D,YAAY,EACV,YAAY,EACZ,aAAa,GACd,MAAM,YAAY,CAAC;AACpB,YAAY,EACV,iBAAiB,EACjB,YAAY,GACb,MAAM,oBAAoB,CAAC;AA8C5B,wBAAsB,qBAAqB,CAAC,KAAK,EAAE,YAAY,GAAG,OAAO,CAAC,aAAa,CAAC,CA6KvF"}

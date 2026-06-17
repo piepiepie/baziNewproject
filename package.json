@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "api": "node server/index.js",
+    "dev": "vite --host 0.0.0.0",
+    "dev:local": "vite --host 127.0.0.1 --port 5188",
+    "build": "vite build",
+    "preview": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "marked": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "taibu-core": "^3.4.0",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}
